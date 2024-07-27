@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452499760303",
+    "project_id": "kleiba-9bfe5",
+    "storage_bucket": "kleiba-9bfe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452499760303:android:ef516324799cab2492205a",
+        "android_client_info": {
+          "package_name": "com.example.aeshthatic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2UKwX3dG9hs2W6LNSjccVKXjmRiChiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
